@@ -4,7 +4,7 @@
 Ice Breakout is a platformer game based on the idea of Brick Breaker. It contains ice blocks which are hit by a fireball. It also has golden blocks, which contain in them random prices in the form of projectiles.
 
 
-#### Changelog
+### Changelog
 
 **Jan, 2015**
 - Added golden blocks for power-ups. (2015/01/09)
@@ -25,7 +25,7 @@ Ice Breakout is a platformer game based on the idea of Brick Breaker. It contain
 - Added Images for Ice cubes, fireball and player. (2014/11/03)
 
 
-#### Credits
+### Credits
 - [Tayab Soomro](https://github.com/tayabsoomro) -- Project Lead and Main Programming
 - Andriy Andriyevskyy -- Graphics
 - Maruf Mugdho -- General Help
